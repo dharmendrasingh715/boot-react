@@ -1,0 +1,24 @@
+{
+  "name": "boot-react",
+  "version": "0.0.1",
+  "description": "A command line utility to setup a basic react project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmendrasingh715/boot-react.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "cli"
+  ],
+  "author": "dharmendrasingh715@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmendrasingh715/boot-react/issues"
+  },
+  "homepage": "https://github.com/dharmendrasingh715/boot-react#readme"
+}
